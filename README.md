@@ -1,6 +1,6 @@
 # Youtube Text - Discover text-only videos from youtube!
 
-![alt tag](https://raw.githubusercontent.com/Web2ART/youtube-text/master/logo.png)
+![alt tag](https://raw.githubusercontent.com/fsiamp/youtube-text/master/logo.png)
 
 Youtube Text is a service which hosts text-only videos from Youtube.
 
@@ -14,6 +14,6 @@ The current web application was written in PHP/HTML and makes use of Tumblr API.
 
 # Screenshots
 
-![alt tag](https://raw.githubusercontent.com/Web2ART/youtube-text/master/video.png)
+![alt tag](https://raw.githubusercontent.com/fsiamp/youtube-text/master/video.png)
 
-![alt tag](https://raw.githubusercontent.com/Web2ART/youtube-text/master/text.png)
+![alt tag](https://raw.githubusercontent.com/fsiamp/youtube-text/master/text.png)
