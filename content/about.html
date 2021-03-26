@@ -3,12 +3,12 @@
 <meta name='text:youtube-text' content='' />
 <meta name="keywords" content="youtube,yttext,youtube text,text-based,text-only,text videos">
 <meta name="author" content="Youtube Text">
-<link rel="icon" type="image/png" href="https://s13.postimg.org/hhkdhzv3r/cema_Ds1472403224.png">
+<link rel="icon" type="image/png" href="https://raw.githubusercontent.com/fsiamp/youtube-text/main/cemaDs1472403224.png">
 
 <title>Youtube Text | Further Information</title>
 
 <style type="text/css"> 
-body {font-size:20px;  font-family:  Helvetica bold, Verdana bold, sans-serif;  background-image:url('https://s13.postimg.org/my3urr40n/text3.gif'); border:none;}
+body {font-size:20px;  font-family:  Helvetica bold, Verdana bold, sans-serif;  background-image:url('https://raw.githubusercontent.com/fsiamp/youtube-text/main/text3.gif'); border:none;}
 a img, a:link img {
 	border: 0px;
 }
@@ -18,33 +18,35 @@ a img, a:link img {
 #about_text {
     display: inline-block;
 }
-</style> 
 
+iframe { max-width: 100%; }
+
+
+.tmblr-iframe--gdpr-banner {
+  display:none !important;
+}
+</style> 
+<script>function handleThis(formElm){
+    window.location="https://youtubetext.tumblr.com/tagged/"+formElm.q.value+"";
+    return false;
+}</script>
 
 </head>
 <body>
 <center>
 <br>
-<a href="http://youtubetext.co.vu"><img class="a" src="https://s9.postimg.org/nycrgb5rz/youtube.png"><img class="a" src="https://s15.postimg.org/4gx2zbrgb/text.png" ></a>
-<br><br>
+<a href="https://youtubetext.tumblr.com"><img class="a" style="left:-9px; position:relative;" src="https://raw.githubusercontent.com/fsiamp/youtube-text/main/youtube.png"><img style="left:-9px; position:relative;" class="a" src="https://raw.githubusercontent.com/fsiamp/youtube-text/main/textname.PNG" ></a>
+<br><br><br>
+ 	<form action="/tagged" method="get" onsubmit="return handleThis(this)">
+  		<input type="search"  style="font-size:15px; display:inline; 
+        display: -moz-inline-box; width:660px; top:-20px; position:relative; padding:3px; border:1px solid #474747;  background-color: #FFF;" class="search-query" name="q" value="" onsubmit="return handleThis(this)" placeholder="Search Videos" /> <input style="position:relative; top:-20px; font-size:15px;" type="submit" class="search-button" value="→"/>
+  	</form>
 
-
-<FORM action="http://dogefactor.esy.es/insert.php" method="post" accept-charset="UTF-8"> 
-    <INPUT type="text" id="videourl" name="videourl" style="width:32.5%; font-size:17px;" placeholder="http://"> 
-<input type="submit" value="Submit"  id="upload1" class="button"  style="width:70px; font-size:17px; cursor:pointer; cursor:hand; background-color: #e5eecc; "> 
-  
- 
-    </FORM> 
- 
-<br>
-
-<textarea rows="14" cols="50" style="font-size:20px; width:36.5%">Youtube Text is a service which hosts text-only videos from Youtube.
+<textarea rows="14" cols="50" style="font-size:20px; width:688px;">Youtube Text is a service which hosts and collects text-only videos from Youtube.
 
 Three videos per page are displayed.
 
-Users are able to submit Youtube URLs of their favorite text-based videos.
-
-Videos are submitted immediately each time at a random page.
+Users are able to search their favorite text-based videos.
 
 The current web application was written in PHP/HTML by Fanis Siampos.
 </textarea>
