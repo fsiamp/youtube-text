@@ -2,15 +2,12 @@
 
 ![alt tag](https://raw.githubusercontent.com/fsiamp/youtube-text/master/logo.png)
 
-Youtube Text is a service which hosts text-only videos from Youtube.
+Youtube Text is a service which hosts and collects text-only videos from Youtube.
 
 Three videos per page are displayed.
 
-Users are able to submit Youtube URLs of their favorite text-based videos.
-
-Videos are submitted immediately each time at a random page.
-
-The current web application was written in PHP/HTML and makes use of Tumblr API.
+Users are able to search their favorite text-based videos.
+The current web application was written in PHP/HTML
 
 # Screenshots
 
