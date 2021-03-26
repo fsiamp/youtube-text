@@ -6,7 +6,7 @@ Youtube Text is a service which hosts and collects text-only videos from Youtube
 
 Three videos per page are displayed.
 
-Users are able to search their favorite text-based videos.<br>
+Users are able to search and view their favorite text-based videos.<br>
 The current web application was written in PHP/HTML
 
 # Screenshots
