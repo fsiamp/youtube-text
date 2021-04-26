@@ -2,7 +2,7 @@
 
 ![alt tag](https://raw.githubusercontent.com/fsiamp/youtube-text/master/logo.png)
 
-<b>URL:</b> https://fsiamp.github.io/youtube-text
+<b>URL:</b> https://softdonkey.github.io/youtube-text
 
 Youtube Text is a service which hosts and collects text-only videos from Youtube.
 
