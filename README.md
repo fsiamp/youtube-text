@@ -1,6 +1,6 @@
 # Youtube Text - Discover text-only videos from youtube!
 
-![alt tag](https://raw.githubusercontent.com/fsiamp/youtube-text/master/logo.png)
+![alt tag](https://raw.githubusercontent.com/softdonkey/youtube-text/master/logo.png)
 
 <b>URL:</b> https://softdonkey.github.io/youtube-text
 
@@ -13,6 +13,6 @@ The current web application was written in PHP/HTML
 
 # Screenshots
 
-![alt tag](https://raw.githubusercontent.com/fsiamp/youtube-text/master/video.png)
+![alt tag](https://raw.githubusercontent.com/softdonkey/youtube-text/master/video.png)
 
-![alt tag](https://raw.githubusercontent.com/fsiamp/youtube-text/master/text.png)
+![alt tag](https://raw.githubusercontent.com/softdonkey/youtube-text/master/text.png)
